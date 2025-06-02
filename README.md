@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://www.arxiv.org/abs/2505.23579" target="_blank"><img src="https://img.shields.io/badge/arXiv-2505.23579-FF6B6B?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv"></a>
   <a href="https://github.com/bowang-lab/BioReason"><img src="https://img.shields.io/badge/GitHub-Code-4A90E2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://bowang-lab.github.io/BioReason/"><img src="https://img.shields.io/badge/Website-Online-00B89E?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website"></a>
   <a href="https://huggingface.co/collections/wanglab/bioreason-683cd17172a037a31d208f70"><img src="https://img.shields.io/badge/HuggingFace-Dataset-FFBF00?style=for-the-badge&logo=huggingface&logoColor=white" alt="HuggingFace Dataset"></a>
 </p>
 
