@@ -46,7 +46,7 @@ We will release the checkpoints soon!
 ## Installation
 
 ### Prerequisites
-- Python 3.8+
+- Python 3.11+
 - CUDA/GPU for best performance
 
 ### Installation Steps
