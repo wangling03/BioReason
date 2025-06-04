@@ -9,7 +9,7 @@ from trl import SFTTrainer
 import torch
 
 from bioreason.dna_modules.dna_module import DNABaseModule
-from bioreason.models.dna_llm_reason import DLForConditionalGeneration
+from bioreason.models.dna_llm import DNALLMModel
 from bioreason.models.dl.processing_dl import DLProcessor
 
 
@@ -49,7 +49,7 @@ class NucleotideDNAModule(DNABaseModule):
             ValueError: If the model is not supported
         """
         if "DNALLM" in model_id:
-            model_cls = DLForConditionalGeneration
+            model_cls = DNALLMModel
         else:
             raise ValueError(f"Unsupported model: {model_id}")
         return model_cls
